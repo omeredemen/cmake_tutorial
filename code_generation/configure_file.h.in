@@ -1,0 +1,4 @@
+#define code_generation_VERSION_MAJOR @code_generation_VERSION_MAJOR@
+#define code_generation_VERSION_MINOR @code_generation_VERSION_MINOR@
+#define code_generation_BINARY_DIRECTORY  "@PROJECT_BINARY_DIR@"
+#define code_generation_SOURCE_DIRECTORY  "@PROJECT_SOURCE_DIR@"
